@@ -1,5 +1,5 @@
 ## Simple Python App using Composio
-It gives the details/ info of a connected github account and a list of the account repositories.
+It gives the details/ info of a connected GitHub account and a list of the account repositories.
 
 
 ### Install the necessary dependencies
@@ -7,6 +7,6 @@ It gives the details/ info of a connected github account and a list of the accou
 - `pip install python-decouple`
 
 ### Add necessary secret keys
-<p>Create a `.env` file (use the .env-example sample). To get these values, sign up on [composio](https://app.composio.dev/).</p>
-- composio_api_key=
-- integration_id=
+Create a `.env` file (use the .env-example sample). Sign up on [composio](https://app.composio.dev/) to get the validated value for the variable mentioned below:
+- `composio_api_key=`
+- `integration_id=`
